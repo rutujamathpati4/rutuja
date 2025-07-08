@@ -1,0 +1,13 @@
+body{
+    margin:200px;
+}
+
+.images{
+    border: 2px solid black;
+    border-radius: 16px; 
+}
+#btn{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+}
